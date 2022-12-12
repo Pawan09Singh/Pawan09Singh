@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pawan09Singh
 - 👀 I’m interested in Aritificial Engineering and Machine learning.
 - 🌱 I’m currently learning C++ and python.
-- 💞️ I’m looking to collaborate on any AI Project.
+- 💞️ I’m looking to collaborate on any AI project.
 - 📫 feel free to contact me on linkedin the link is https://www.linkedin.com/in/pawan-singh011/
 
 <!---
