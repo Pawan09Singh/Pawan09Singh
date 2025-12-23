@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @Pawan09Singh!
-- 🚀 Passionate about: Full-Stack Web Development with a strong interest in building scalable and feature-rich applications.
-- 🎯 Currently exploring: Competitive Programming to improve problem-solving skills, and System Design to deepen my 
-      understanding of scalable architecture.
-- 🤝 I’m looking to collaborate on: Exciting projects that challenge me and help create meaningful solutions.
-- 💬 Feel free to reach out to me on https://www.linkedin.com/in/pawan-singh011/
+## Hi, I'm Pawan Singh 👋
 
-<!---
-Pawan09Singh/Pawan09Singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A Full-Stack Web Developer passionate about building scalable and feature-rich applications.
+
+*   Currently exploring Competitive Programming and System Design to enhance my problem-solving and architectural skills.
+*   Open to collaborating on exciting projects that create meaningful solutions.
+
+Let's connect!  [LinkedIn](https://www.linkedin.com/in/pawan-singh011/) https://www.linkedin.com/in/pawan-singh011/
