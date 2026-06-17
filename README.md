@@ -9,8 +9,8 @@ A Full-Stack Web Developer passionate about building scalable and feature-rich a
 Let's connect!  [LinkedIn](https://www.linkedin.com/in/pawan-singh011/) https://www.linkedin.com/in/pawan-singh011/
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pawan09Singh&show_icons=false&hide=stars,issues,prs&rank_icon=github)
+<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pawan09Singh&count_private=true&show_icons=false&hide=stars,issues,prs&rank_icon=github) -->
 
 
 <picture>
