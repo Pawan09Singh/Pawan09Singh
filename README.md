@@ -10,3 +10,12 @@ Let's connect!  [LinkedIn](https://www.linkedin.com/in/pawan-singh011/) https://
 
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pawan09Singh&show_icons=false&hide=stars,issues,prs&rank_icon=github)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
